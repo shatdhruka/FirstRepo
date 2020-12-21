@@ -1,1 +1,20 @@
 This is my first git Repo File
+
+Git Commands:
+1. git config --global user.name"shatdhruka"   (configuration with github)
+2. git config --global user.email shatdhrukaece@gmail.com
+3. git config --list   (configuration check)
+4. mkdir Git_Demo ( Create the new folder)
+5. cd Git_Demo/  (To enter into the the folder)
+6. mkdir FirstRepo    (To create the new repo)
+7. cd FirstRepo/    (To enter into the the folder)
+8. pwd    (To check the path)
+9. git init    ( To Intialize the git )
+10. touch master    ( To create the File)
+11. notepad master.txt  ( Create the notepad )
+12. git status (To check the status)
+13. git add . ( To add the file)
+14. git status  
+15.git commit -m "this is my first git commit"
+16 git status
+17. git log
